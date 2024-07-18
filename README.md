@@ -18,3 +18,17 @@ The Restaurant Management System is a comprehensive desktop application designed
 - **Programming Language**: C#
 - **Framework**: .NET Framework
 - **UI**: Windows Forms
+
+## Login Credentials
+
+- **Admin**:
+  - Username: Admin
+  - Password: 123456
+
+- **Mahmoud**:
+  - Username: Mahmoud
+  - Password: 55555
+
+- **Ahmed**:
+  - Username: Ahmed
+  - Password: 11111
