@@ -172,6 +172,8 @@
             btn_login.Text = "Login";
             btn_login.UseVisualStyleBackColor = false;
             btn_login.Click += btn_login_Click;
+            btn_login.MouseLeave += btn_login_MouseLeave;
+            btn_login.MouseMove += btn_login_MouseMove;
             // 
             // label4
             // 

@@ -31,6 +31,7 @@
             components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Menu));
             panel1 = new Panel();
+            pictureBox17 = new PictureBox();
             pictureBox16 = new PictureBox();
             pictureBox15 = new PictureBox();
             lbl_day = new Label();
@@ -106,8 +107,8 @@
             printDocument1 = new System.Drawing.Printing.PrintDocument();
             printPreviewDialog1 = new PrintPreviewDialog();
             timer2 = new System.Windows.Forms.Timer(components);
-            pictureBox17 = new PictureBox();
             panel1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)pictureBox17).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox16).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox15).BeginInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox14).BeginInit();
@@ -129,7 +130,6 @@
             ((System.ComponentModel.ISupportInitialize)pictureBox11).BeginInit();
             panel10.SuspendLayout();
             panel7.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)pictureBox17).BeginInit();
             SuspendLayout();
             // 
             // panel1
@@ -148,6 +148,18 @@
             panel1.Name = "panel1";
             panel1.Size = new Size(1121, 90);
             panel1.TabIndex = 0;
+            // 
+            // pictureBox17
+            // 
+            pictureBox17.Cursor = Cursors.Hand;
+            pictureBox17.Image = (Image)resources.GetObject("pictureBox17.Image");
+            pictureBox17.Location = new Point(0, 0);
+            pictureBox17.Name = "pictureBox17";
+            pictureBox17.Size = new Size(51, 43);
+            pictureBox17.SizeMode = PictureBoxSizeMode.Zoom;
+            pictureBox17.TabIndex = 47;
+            pictureBox17.TabStop = false;
+            pictureBox17.Click += pictureBox17_Click;
             // 
             // pictureBox16
             // 
@@ -891,10 +903,12 @@
             btn_print.Text = "Print";
             btn_print.UseVisualStyleBackColor = false;
             btn_print.Click += btn_print_Click;
+            btn_print.MouseLeave += btn_print_MouseLeave;
+            btn_print.MouseMove += btn_print_MouseMove;
             // 
             // btn_add
             // 
-            btn_add.BackColor = Color.FromArgb(0, 192, 0);
+            btn_add.BackColor = Color.Lime;
             btn_add.Cursor = Cursors.Hand;
             btn_add.FlatAppearance.BorderSize = 0;
             btn_add.FlatStyle = FlatStyle.Flat;
@@ -907,6 +921,8 @@
             btn_add.Text = "Add";
             btn_add.UseVisualStyleBackColor = false;
             btn_add.Click += Add_Click;
+            btn_add.MouseLeave += btn_add_MouseLeave;
+            btn_add.MouseMove += btn_add_MouseMove;
             // 
             // btn_reset
             // 
@@ -923,6 +939,8 @@
             btn_reset.Text = "Reset";
             btn_reset.UseVisualStyleBackColor = false;
             btn_reset.Click += btn_reset_Click;
+            btn_reset.MouseLeave += btn_reset_MouseLeave;
+            btn_reset.MouseMove += btn_reset_MouseMove;
             // 
             // lbl_suptotal
             // 
@@ -1036,19 +1054,7 @@
             // 
             timer2.Tick += timer2_Tick;
             // 
-            // pictureBox17
-            // 
-            pictureBox17.Cursor = Cursors.Hand;
-            pictureBox17.Image = (Image)resources.GetObject("pictureBox17.Image");
-            pictureBox17.Location = new Point(0, 0);
-            pictureBox17.Name = "pictureBox17";
-            pictureBox17.Size = new Size(51, 43);
-            pictureBox17.SizeMode = PictureBoxSizeMode.Zoom;
-            pictureBox17.TabIndex = 47;
-            pictureBox17.TabStop = false;
-            pictureBox17.Click += pictureBox17_Click;
-            // 
-            // Form1
+            // Menu
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
@@ -1059,12 +1065,13 @@
             Controls.Add(panel1);
             FormBorderStyle = FormBorderStyle.None;
             Icon = (Icon)resources.GetObject("$this.Icon");
-            Name = "Form1";
+            Name = "Menu";
             StartPosition = FormStartPosition.CenterScreen;
             Text = " Engineer's Restaurant";
             Load += Form1_Load;
             panel1.ResumeLayout(false);
             panel1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)pictureBox17).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox16).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox15).EndInit();
             ((System.ComponentModel.ISupportInitialize)pictureBox14).EndInit();
@@ -1090,7 +1097,6 @@
             panel10.PerformLayout();
             panel7.ResumeLayout(false);
             panel7.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)pictureBox17).EndInit();
             ResumeLayout(false);
         }
 

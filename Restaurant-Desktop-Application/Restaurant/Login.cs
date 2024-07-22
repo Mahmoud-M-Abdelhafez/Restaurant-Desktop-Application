@@ -18,7 +18,7 @@ namespace Restaurant
         {
             InitializeComponent();
         }
-        List<Employee> emp = new List<Employee>();
+        static List<Employee> emp = new List<Employee>();
 
         private void pictureBox2_Click(object sender, EventArgs e)
         {
@@ -66,7 +66,7 @@ namespace Restaurant
             }
             if (Successed == false && admin == false)
             {
-                MessageBox.Show($"Username or Password is Wrong !!! " , "Error !!" , MessageBoxButtons.OKCancel,MessageBoxIcon.Error);
+                MessageBox.Show($"Username or Password is Wrong !!! ", "Error !!", MessageBoxButtons.OKCancel, MessageBoxIcon.Error);
             }
             if (admin == true)
             {
@@ -99,20 +99,21 @@ namespace Restaurant
 
         private void btn_add_emp_Click(object sender, EventArgs e)
         {
-            if (txt_newpassword.Text==""||txt_newusername.Text=="")
+            if (txt_newpassword.Text == "" || txt_newusername.Text == "")
             {
-               
-                MessageBox.Show("Failed to add Employee !!! \n"," Error !!", MessageBoxButtons.OKCancel, MessageBoxIcon.Error);
+
+                MessageBox.Show("Failed to add Employee !!! \n", " Error !!", MessageBoxButtons.OKCancel, MessageBoxIcon.Error);
                 txt_newusername.Clear();
                 txt_newpassword.Clear();
             }
-            else { 
-            emp.Add(new Employee(txt_newusername.Text, txt_newpassword.Text));
-            
-            MessageBox.Show("Adding an Employee Succeeded", " Done Successfully", MessageBoxButtons.OK, MessageBoxIcon.Information);
+            else
+            {
+                emp.Add(new Employee(txt_newusername.Text, txt_newpassword.Text));
+
+                MessageBox.Show("Adding an Employee Succeeded", " Done Successfully", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
                 txt_newusername.Clear();
-            txt_newpassword.Clear();
+                txt_newpassword.Clear();
             }
         }
 
@@ -127,6 +128,16 @@ namespace Restaurant
             //Login login = new Login();
             //login.Show();
             //this.Hide();
+        }
+
+        private void btn_login_MouseMove(object sender, MouseEventArgs e)
+        {
+            btn_login.BackColor = Color.Red;
+        }
+
+        private void btn_login_MouseLeave(object sender, EventArgs e)
+        {
+            btn_login.BackColor= Color.ForestGreen;
         }
     }
 }

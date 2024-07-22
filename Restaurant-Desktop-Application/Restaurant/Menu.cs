@@ -315,5 +315,41 @@ namespace BoomRestaurant
             login.Show();
             this.Hide();
         }
+
+        private void btn_print_MouseMove(object sender, MouseEventArgs e)
+        {
+            btn_print.Size = new Size(95, 50);
+            btn_print.BackColor = Color.Yellow;
+        }
+
+        private void btn_print_MouseLeave(object sender, EventArgs e)
+        {
+            btn_print.Size = new Size(87, 43);
+            btn_print.BackColor = Color.DeepSkyBlue;
+        }
+
+        private void btn_add_MouseMove(object sender, MouseEventArgs e)
+        {
+            btn_add.Size = new Size(95, 50);
+            btn_add.BackColor = Color.Yellow;
+        }
+
+        private void btn_add_MouseLeave(object sender, EventArgs e)
+        {
+            btn_add.Size = new Size(87, 43);
+            btn_add.BackColor = Color.Lime;
+        }
+
+        private void btn_reset_MouseMove(object sender, MouseEventArgs e)
+        {
+            btn_reset.Size = new Size(95, 50);
+            btn_reset.BackColor = Color.Yellow;
+        }
+
+        private void btn_reset_MouseLeave(object sender, EventArgs e)
+        {
+            btn_reset.Size = new Size(87, 43);
+            btn_reset.BackColor = Color.Red;
+        }
     }
 }
