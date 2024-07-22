@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "I:\\Restaurant-Desktop-Application-main\\Restaurant-Desktop-Application-main\\Restaurant-Desktop-Application\\Restaurant\\Restaurant.csproj",
+      "projectUniqueName": "I:\\Restaurant-Desktop-Application-main\\Restaurant-Desktop-Application\\Restaurant-Desktop-Application\\Restaurant\\Restaurant.csproj",
       "projectName": "Restaurant",
-      "projectPath": "I:\\Restaurant-Desktop-Application-main\\Restaurant-Desktop-Application-main\\Restaurant-Desktop-Application\\Restaurant\\Restaurant.csproj",
+      "projectPath": "I:\\Restaurant-Desktop-Application-main\\Restaurant-Desktop-Application\\Restaurant-Desktop-Application\\Restaurant\\Restaurant.csproj",
       "packagesPath": "C:\\Users\\dell\\.nuget\\packages\\",
-      "outputPath": "I:\\Restaurant-Desktop-Application-main\\Restaurant-Desktop-Application-main\\Restaurant-Desktop-Application\\Restaurant\\obj\\",
+      "outputPath": "I:\\Restaurant-Desktop-Application-main\\Restaurant-Desktop-Application\\Restaurant-Desktop-Application\\Restaurant\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dell\\AppData\\Roaming\\NuGet\\NuGet.Config",

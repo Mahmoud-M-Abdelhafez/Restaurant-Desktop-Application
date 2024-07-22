@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "I:\\Restaurant-Desktop-Application-main\\Restaurant-Desktop-Application-main\\Restaurant-Desktop-Application\\",
+  "WorkspaceRootPath": "I:\\Restaurant-Desktop-Application-main\\Restaurant-Desktop-Application\\Restaurant-Desktop-Application\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{81FAF090-EA20-4FF6-9636-E5604BFA7C63}|Restaurant\\Restaurant.csproj|i:\\restaurant-desktop-application-main\\restaurant-desktop-application-main\\restaurant-desktop-application\\restaurant\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{81FAF090-EA20-4FF6-9636-E5604BFA7C63}|Restaurant\\Restaurant.csproj|i:\\restaurant-desktop-application-main\\restaurant-desktop-application\\restaurant-desktop-application\\restaurant\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81FAF090-EA20-4FF6-9636-E5604BFA7C63}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81FAF090-EA20-4FF6-9636-E5604BFA7C63}|Restaurant\\Restaurant.csproj|I:\\Restaurant-Desktop-Application-main\\Restaurant-Desktop-Application-main\\Restaurant-Desktop-Application\\restaurant\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{81FAF090-EA20-4FF6-9636-E5604BFA7C63}|Restaurant\\Restaurant.csproj|I:\\Restaurant-Desktop-Application-main\\Restaurant-Desktop-Application\\Restaurant-Desktop-Application\\restaurant\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{81FAF090-EA20-4FF6-9636-E5604BFA7C63}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81FAF090-EA20-4FF6-9636-E5604BFA7C63}|Restaurant\\Restaurant.csproj|i:\\restaurant-desktop-application-main\\restaurant-desktop-application-main\\restaurant-desktop-application\\restaurant\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{81FAF090-EA20-4FF6-9636-E5604BFA7C63}|Restaurant\\Restaurant.csproj|i:\\restaurant-desktop-application-main\\restaurant-desktop-application\\restaurant-desktop-application\\restaurant\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81FAF090-EA20-4FF6-9636-E5604BFA7C63}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81FAF090-EA20-4FF6-9636-E5604BFA7C63}|Restaurant\\Restaurant.csproj|i:\\restaurant-desktop-application-main\\restaurant-desktop-application-main\\restaurant-desktop-application\\restaurant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{81FAF090-EA20-4FF6-9636-E5604BFA7C63}|Restaurant\\Restaurant.csproj|i:\\restaurant-desktop-application-main\\restaurant-desktop-application\\restaurant-desktop-application\\restaurant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81FAF090-EA20-4FF6-9636-E5604BFA7C63}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81FAF090-EA20-4FF6-9636-E5604BFA7C63}|Restaurant\\Restaurant.csproj|I:\\Restaurant-Desktop-Application-main\\Restaurant-Desktop-Application-main\\Restaurant-Desktop-Application\\restaurant\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{81FAF090-EA20-4FF6-9636-E5604BFA7C63}|Restaurant\\Restaurant.csproj|I:\\Restaurant-Desktop-Application-main\\Restaurant-Desktop-Application\\Restaurant-Desktop-Application\\restaurant\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{81FAF090-EA20-4FF6-9636-E5604BFA7C63}|Restaurant\\Restaurant.csproj|solutionrelative:restaurant\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -40,9 +40,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Menu.cs",
-              "DocumentMoniker": "I:\\Restaurant-Desktop-Application-main\\Restaurant-Desktop-Application-main\\Restaurant-Desktop-Application\\Restaurant\\Menu.cs",
+              "DocumentMoniker": "I:\\Restaurant-Desktop-Application-main\\Restaurant-Desktop-Application\\Restaurant-Desktop-Application\\Restaurant\\Menu.cs",
               "RelativeDocumentMoniker": "Restaurant\\Menu.cs",
-              "ToolTip": "I:\\Restaurant-Desktop-Application-main\\Restaurant-Desktop-Application-main\\Restaurant-Desktop-Application\\Restaurant\\Menu.cs",
+              "ToolTip": "I:\\Restaurant-Desktop-Application-main\\Restaurant-Desktop-Application\\Restaurant-Desktop-Application\\Restaurant\\Menu.cs",
               "RelativeToolTip": "Restaurant\\Menu.cs",
               "ViewState": "AQIAAJcAAAAAAAAAAAAUwKQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -53,10 +53,10 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Menu.cs [Design]",
-              "DocumentMoniker": "I:\\Restaurant-Desktop-Application-main\\Restaurant-Desktop-Application-main\\Restaurant-Desktop-Application\\Restaurant\\Menu.cs",
+              "DocumentMoniker": "I:\\Restaurant-Desktop-Application-main\\Restaurant-Desktop-Application\\Restaurant-Desktop-Application\\Restaurant\\Menu.cs",
               "RelativeDocumentMoniker": "Restaurant\\Menu.cs",
               "ToolTip": "I:\\Restaurant-Desktop-Application-main\\Restaurant-Desktop-Application-main\\Restaurant-Desktop-Application\\Restaurant\\Menu.cs [Design]",
-              "RelativeToolTip": "Restaurant\\Menu.cs [Design]",
+              "RelativeToolTip": "..\\..\\Restaurant-Desktop-Application-main\\Restaurant-Desktop-Application\\Restaurant\\Menu.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-22T08:12:06.453Z"
             },
@@ -64,9 +64,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "I:\\Restaurant-Desktop-Application-main\\Restaurant-Desktop-Application-main\\Restaurant-Desktop-Application\\Restaurant\\Program.cs",
+              "DocumentMoniker": "I:\\Restaurant-Desktop-Application-main\\Restaurant-Desktop-Application\\Restaurant-Desktop-Application\\Restaurant\\Program.cs",
               "RelativeDocumentMoniker": "Restaurant\\Program.cs",
-              "ToolTip": "I:\\Restaurant-Desktop-Application-main\\Restaurant-Desktop-Application-main\\Restaurant-Desktop-Application\\Restaurant\\Program.cs",
+              "ToolTip": "I:\\Restaurant-Desktop-Application-main\\Restaurant-Desktop-Application\\Restaurant-Desktop-Application\\Restaurant\\Program.cs",
               "RelativeToolTip": "Restaurant\\Program.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -76,9 +76,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Login.cs",
-              "DocumentMoniker": "I:\\Restaurant-Desktop-Application-main\\Restaurant-Desktop-Application-main\\Restaurant-Desktop-Application\\Restaurant\\Login.cs",
+              "DocumentMoniker": "I:\\Restaurant-Desktop-Application-main\\Restaurant-Desktop-Application\\Restaurant-Desktop-Application\\Restaurant\\Login.cs",
               "RelativeDocumentMoniker": "Restaurant\\Login.cs",
-              "ToolTip": "I:\\Restaurant-Desktop-Application-main\\Restaurant-Desktop-Application-main\\Restaurant-Desktop-Application\\Restaurant\\Login.cs",
+              "ToolTip": "I:\\Restaurant-Desktop-Application-main\\Restaurant-Desktop-Application\\Restaurant-Desktop-Application\\Restaurant\\Login.cs",
               "RelativeToolTip": "Restaurant\\Login.cs",
               "ViewState": "AQIAAIMAAAAAAAAAAAAIwIYAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -89,10 +89,10 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Login.cs [Design]",
-              "DocumentMoniker": "I:\\Restaurant-Desktop-Application-main\\Restaurant-Desktop-Application-main\\Restaurant-Desktop-Application\\Restaurant\\Login.cs",
+              "DocumentMoniker": "I:\\Restaurant-Desktop-Application-main\\Restaurant-Desktop-Application\\Restaurant-Desktop-Application\\Restaurant\\Login.cs",
               "RelativeDocumentMoniker": "Restaurant\\Login.cs",
               "ToolTip": "I:\\Restaurant-Desktop-Application-main\\Restaurant-Desktop-Application-main\\Restaurant-Desktop-Application\\Restaurant\\Login.cs [Design]",
-              "RelativeToolTip": "Restaurant\\Login.cs [Design]",
+              "RelativeToolTip": "..\\..\\Restaurant-Desktop-Application-main\\Restaurant-Desktop-Application\\Restaurant\\Login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-22T07:59:01.643Z"
             }
