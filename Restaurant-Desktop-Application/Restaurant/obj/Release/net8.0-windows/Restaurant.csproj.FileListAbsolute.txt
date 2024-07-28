@@ -132,3 +132,23 @@ I:\Restaurant-Desktop-Application-main\Restaurant-Desktop-Application\Restaurant
 I:\Restaurant-Desktop-Application-main\Restaurant-Desktop-Application\Restaurant-Desktop-Application\Restaurant\obj\Release\net8.0-windows\Restaurant.pdb
 I:\Restaurant-Desktop-Application-main\Restaurant-Desktop-Application\Restaurant-Desktop-Application\Restaurant\obj\Release\net8.0-windows\Restaurant.genruntimeconfig.cache
 I:\Restaurant-Desktop-Application-main\Restaurant-Desktop-Application\Restaurant-Desktop-Application\Restaurant\obj\Release\net8.0-windows\ref\Restaurant.dll
+E:\.NET Course\ITI\C#\Restaurant-Desktop-Application-main\Restaurant-Desktop-Application\Restaurant-Desktop-Application\Restaurant\bin\Release\net8.0-windows\Restaurant.exe
+E:\.NET Course\ITI\C#\Restaurant-Desktop-Application-main\Restaurant-Desktop-Application\Restaurant-Desktop-Application\Restaurant\bin\Release\net8.0-windows\Restaurant.deps.json
+E:\.NET Course\ITI\C#\Restaurant-Desktop-Application-main\Restaurant-Desktop-Application\Restaurant-Desktop-Application\Restaurant\bin\Release\net8.0-windows\Restaurant.runtimeconfig.json
+E:\.NET Course\ITI\C#\Restaurant-Desktop-Application-main\Restaurant-Desktop-Application\Restaurant-Desktop-Application\Restaurant\bin\Release\net8.0-windows\Restaurant.dll
+E:\.NET Course\ITI\C#\Restaurant-Desktop-Application-main\Restaurant-Desktop-Application\Restaurant-Desktop-Application\Restaurant\bin\Release\net8.0-windows\Restaurant.pdb
+E:\.NET Course\ITI\C#\Restaurant-Desktop-Application-main\Restaurant-Desktop-Application\Restaurant-Desktop-Application\Restaurant\obj\Release\net8.0-windows\Restaurant.Login.resources
+E:\.NET Course\ITI\C#\Restaurant-Desktop-Application-main\Restaurant-Desktop-Application\Restaurant-Desktop-Application\Restaurant\obj\Release\net8.0-windows\BoomRestaurant.Menu.resources
+E:\.NET Course\ITI\C#\Restaurant-Desktop-Application-main\Restaurant-Desktop-Application\Restaurant-Desktop-Application\Restaurant\obj\Release\net8.0-windows\Restaurant.Properties.Resources.resources
+E:\.NET Course\ITI\C#\Restaurant-Desktop-Application-main\Restaurant-Desktop-Application\Restaurant-Desktop-Application\Restaurant\obj\Release\net8.0-windows\Restaurant.Splash.resources
+E:\.NET Course\ITI\C#\Restaurant-Desktop-Application-main\Restaurant-Desktop-Application\Restaurant-Desktop-Application\Restaurant\obj\Release\net8.0-windows\Restaurant.csproj.GenerateResource.cache
+E:\.NET Course\ITI\C#\Restaurant-Desktop-Application-main\Restaurant-Desktop-Application\Restaurant-Desktop-Application\Restaurant\obj\Release\net8.0-windows\Restaurant.GeneratedMSBuildEditorConfig.editorconfig
+E:\.NET Course\ITI\C#\Restaurant-Desktop-Application-main\Restaurant-Desktop-Application\Restaurant-Desktop-Application\Restaurant\obj\Release\net8.0-windows\Restaurant.AssemblyInfoInputs.cache
+E:\.NET Course\ITI\C#\Restaurant-Desktop-Application-main\Restaurant-Desktop-Application\Restaurant-Desktop-Application\Restaurant\obj\Release\net8.0-windows\Restaurant.AssemblyInfo.cs
+E:\.NET Course\ITI\C#\Restaurant-Desktop-Application-main\Restaurant-Desktop-Application\Restaurant-Desktop-Application\Restaurant\obj\Release\net8.0-windows\Restaurant.csproj.CoreCompileInputs.cache
+E:\.NET Course\ITI\C#\Restaurant-Desktop-Application-main\Restaurant-Desktop-Application\Restaurant-Desktop-Application\Restaurant\obj\Release\net8.0-windows\Restaurant.sourcelink.json
+E:\.NET Course\ITI\C#\Restaurant-Desktop-Application-main\Restaurant-Desktop-Application\Restaurant-Desktop-Application\Restaurant\obj\Release\net8.0-windows\Restaurant.dll
+E:\.NET Course\ITI\C#\Restaurant-Desktop-Application-main\Restaurant-Desktop-Application\Restaurant-Desktop-Application\Restaurant\obj\Release\net8.0-windows\refint\Restaurant.dll
+E:\.NET Course\ITI\C#\Restaurant-Desktop-Application-main\Restaurant-Desktop-Application\Restaurant-Desktop-Application\Restaurant\obj\Release\net8.0-windows\Restaurant.pdb
+E:\.NET Course\ITI\C#\Restaurant-Desktop-Application-main\Restaurant-Desktop-Application\Restaurant-Desktop-Application\Restaurant\obj\Release\net8.0-windows\Restaurant.genruntimeconfig.cache
+E:\.NET Course\ITI\C#\Restaurant-Desktop-Application-main\Restaurant-Desktop-Application\Restaurant-Desktop-Application\Restaurant\obj\Release\net8.0-windows\ref\Restaurant.dll
